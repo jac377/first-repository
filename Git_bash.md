@@ -3,6 +3,8 @@
 ## By Juan Cuevas
 This contains a cheat sheet for Git Bash Commands
 
+### How to access my server?
+- **ssh -i [key pair file] ubuntu@[ip address]**
 ### Git Bach
 
 - **echo** - Output the parameters of the command
