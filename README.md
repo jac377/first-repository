@@ -1,8 +1,3 @@
-# startup
-
-Budgeting app that can assist families with their budget.<br>
-Practicing new skills and changing this line again.<br>
-
 # Purpose
 
 The purpose of this reposityory will be for me to create and practice documenting my learning through the course of CS 260. <br> 
@@ -18,3 +13,7 @@ mindlydrinking.click
 
 ##  SHA
 SHA is the unique ID for a specific version, so this can be used with 'git checkout' and this ID.
+
+## Important things I have learned
+We use AWS cloud to create our server.
+Route 53 is used for creating DNS and attaching it to my IP address of my server. Remember that I need to create records so people can access my server with the DNS. Use * for any subdomain (appended before the root domain), so it can lead to the main server.
