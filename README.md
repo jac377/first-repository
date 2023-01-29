@@ -12,8 +12,9 @@ I willl annotate commands, or important information that I will like to have han
 Instructions to [C S 260 - Web Programming](https://github.com/webprogramming260/.github/blob/main/profile/instructionTopics.md#readme) <br> 
 Editing instruction for [GitHub HTML Formatting](https://github.com/webprogramming260/.github/blob/main/profile/essentials/devAndProd/devAndProd.md)
 
-## IP Address to my new serve
+## IP Address to my new serve and DNS
 3.129.226.38
+mindlydrinking.click
 
 ##  SHA
 SHA is the unique ID for a specific version, so this can be used with 'git checkout' and this ID.
