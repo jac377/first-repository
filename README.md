@@ -20,7 +20,7 @@ SHA is the unique ID for a specific version, so this can be used with 'git check
 
 ## Important things I have learned
 We use AWS cloud to create our server.
-Route 53 is used for creating DNS and attaching it to my IP address of my server. Remember that I need to create records so people can access my server with the DNS. Use * for any subdomain (appended before the root domain), so it can lead to the main server.
+Route 53 is used for creating DNS and attaching it to my IP address of my server. Remember that I need to create records so people can access my server with the DNS. Use * for any subdomain (appended before the root domain), so it can lead to the main server. <br>
 For the first time, today, 2/16/2023, I am trying to use two different computers to code.
 
 ## VI Commands
